@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "300669531472",
+    "project_id": "su-kabi",
+    "storage_bucket": "su-kabi.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:300669531472:android:2a65e87c8ff534e9886855",
+        "android_client_info": {
+          "package_name": "com.furkan.su_kabi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "300669531472-j8op4p6m33jldsjliiu6c98md24i7rfc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDMF_NvuTyE0WALX-CbJ4ZZBsNxd0U39gY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "300669531472-j8op4p6m33jldsjliiu6c98md24i7rfc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
